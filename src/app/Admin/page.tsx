@@ -217,7 +217,7 @@ export default function AdminManagement() {
                 <div className="flex items-center space-x-2">
                   <Button
                     variant="outline"
-                    size="icon"
+                    size="lg"
                     className="h-8 w-8"
                     disabled
                   >
@@ -226,7 +226,7 @@ export default function AdminManagement() {
                   <span className="text-sm text-gray-600">Page 1 of 1</span>
                   <Button
                     variant="outline"
-                    size="icon"
+                    size="lg"
                     className="h-8 w-8"
                     disabled
                   >
